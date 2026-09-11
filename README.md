@@ -22,7 +22,6 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dat
 - Product-wise sales analysis
 - Category-wise sales analysis
 - City-wise sales analysis
-- Sales visualizations
 - Business insights
 - SQL analysis
 
