@@ -41,7 +41,6 @@ ECommerce_Sales_EDA/
 - data/
 - notebooks/
 - sql/
-- visualizations/
 - README.md
 - requirements.txt
 - .gitignore
